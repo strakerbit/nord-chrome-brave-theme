@@ -1,0 +1,40 @@
+{
+    "manifest_version": 3,
+    "version": "1.0.0",
+    "name": "nord chrome theme",
+    "theme": {
+        "colors": {
+            "background_tab_incognito": [46, 52, 62],
+            "background_tab_incognito_inactive": [129, 161, 193],
+            "bookmark_text": [216, 222, 233],
+            "frame": [46, 52, 62],
+            "frame_inactive": [76, 86, 106],
+            "omnibox_background": [46, 52, 62],
+            "omnibox_text": [216, 222, 233],
+            "tab_text": [216, 222, 233],
+            "ntp_header": [46, 52, 62],
+            "toolbar": [46, 52, 64],
+            "toolbar_button_icon": [216, 222, 233],
+            "toolbar_text": [216, 222, 233]
+        }
+    },
+    "options": {
+        "#2E343E": [46, 52, 62],
+        "#2E3440": [46, 52, 64],
+        "#434C5E": [67, 76, 94],
+        "#4C566A": [76, 86, 106],
+        "#D8DEE9": [216, 222, 233],
+        "#E5E9F0": [229, 233, 240],
+        "#ECEFF4": [236, 239, 244],
+        "#8FBCBB": [143, 188, 187],
+        "#88C0D0": [136, 192, 208],
+        "#81A1C1": [129, 161, 193],
+        "#5E81AC": [94, 129, 172],
+        "#BF616A": [191, 97, 106],
+        "#D08770": [208, 135, 112],
+        "#EBCB8B": [235, 203, 139],
+        "#A3BE8C": [163, 190, 140],
+        "#B48EAD": [180, 142, 173]
+    }
+}
+
